@@ -10,6 +10,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/naeem-abu-eideh-883560316/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35px" height="35px"></a>
+<a href="https://leetcode.com/u/naeemabueideh/"><img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)" width="35px" height="35px"></a>
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
