@@ -9,7 +9,7 @@
 
 
 ## Connect with me:
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://www.linkedin.com/in/naeem-abu-eideh-883560316/">Visit W3Schools.com!</a>
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
