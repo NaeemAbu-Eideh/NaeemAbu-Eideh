@@ -13,13 +13,13 @@
 <a href="https://leetcode.com/u/naeemabueideh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35px" height="35px"></a>
 
 ## Languages and Tools:
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35px" height="35px"></a>
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35px" height="35px"></a>
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px" height="35px"></a>
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35px" height="35px"></a>
-<a href=""><img src="https://media.licdn.com/dms/image/D4E12AQFZ22tCQSGwDw/article-cover_image-shrink_600_2000/0/1687615910475?e=2147483647&v=beta&t=e0Dz4ia72MRYikHW_0Pc0JoAKJ3sFH3Vd5VO1RyAFPs" width="35px" height="35px"></a>
-<a href=""><img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="35px" height="35px"></a>
-<a href=""><img src="https://minhphanjavahome.wordpress.com/wp-content/uploads/2019/04/java_logo_640.jpg" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/js/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px" height="35px"></a>
+<a href="https://legacy.reactjs.org/tutorial/tutorial.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/cpp/default.asp"><img src="https://media.licdn.com/dms/image/D4E12AQFZ22tCQSGwDw/article-cover_image-shrink_600_2000/0/1687615910475?e=2147483647&v=beta&t=e0Dz4ia72MRYikHW_0Pc0JoAKJ3sFH3Vd5VO1RyAFPs" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/python/default.asp"><img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="35px" height="35px"></a>
+<a href="https://www.w3schools.com/java/"><img src="https://minhphanjavahome.wordpress.com/wp-content/uploads/2019/04/java_logo_640.jpg" width="35px" height="35px"></a>
 
 
 <!--
