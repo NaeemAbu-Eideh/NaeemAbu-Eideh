@@ -9,7 +9,7 @@
 
 
 ## Connect with me:
-https://www.linkedin.com/in/naeem-abu-eideh-883560316/
+<img src="https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630">
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
