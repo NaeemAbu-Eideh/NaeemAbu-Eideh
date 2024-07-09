@@ -1,6 +1,7 @@
 ## Hi, I'm Naeem Abu-Eideh👋
 I'm a graduate frm An-Najah National University - Computer Science in IT Collage.
 
+!= hi
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
