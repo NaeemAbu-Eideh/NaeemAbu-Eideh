@@ -9,7 +9,7 @@
 
 
 ## Connect with me:
-<i herf="https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method">naeem</i>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
