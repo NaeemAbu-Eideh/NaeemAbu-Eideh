@@ -1,9 +1,15 @@
 ## Hi, I'm Naeem Abu-Eideh👋
-I'm a graduate frm An-Najah National University - Computer Science in IT Collage.
+
+
+## I'm a graduate frm An-Najah National University - Computer Science in IT Collage.
 
 - I'm completed my university internship in ASAL Technology
 - My internship was about Frontend developer.
 - My email is naeemabueideh99@gmail.com
+
+
+## Connect with me:
+https://www.linkedin.com/in/naeem-abu-eideh-883560316/
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
