@@ -19,7 +19,8 @@
 <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35px" height="35px"></a>
 <a href=""><img src="https://media.licdn.com/dms/image/D4E12AQFZ22tCQSGwDw/article-cover_image-shrink_600_2000/0/1687615910475?e=2147483647&v=beta&t=e0Dz4ia72MRYikHW_0Pc0JoAKJ3sFH3Vd5VO1RyAFPs" width="35px" height="35px"></a>
 <a href=""><img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="35px" height="35px"></a>
-<a href=""><img src="https://minhphanjavahome.wordpress.com/wp-content/uploads/2019/04/java_logo_640.jpg"></a>
+<a href=""><img src="https://minhphanjavahome.wordpress.com/wp-content/uploads/2019/04/java_logo_640.jpg" width="35px" height="35px"></a>
+
 
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
