@@ -9,7 +9,7 @@
 
 
 ## Connect with me:
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="200px" height="200px">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50px" height="50px">
 <!--
 **NaeemAbu-Eideh/NaeemAbu-Eideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
