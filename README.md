@@ -1,9 +1,9 @@
 ## Hi, I'm Naeem Abu-Eideh👋
 
 
-## I'm a graduate from An-Najah National University - Computer Science in IT Collage.
+## I'm a graduate from An-Najah National University - Computer Science.
 
-- 🔭 I have completed my Frontend internship at ASAL Technologys
+- 🔭 I have completed my Frontend internship at ASAL Technologies
 - 🌱 My internship was about Frontend developer.
 - 📫 How to reach me:  naeemabueideh99@gmail.com
 
