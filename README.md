@@ -3,9 +3,9 @@
 
 ## I'm a graduate frm An-Najah National University - Computer Science in IT Collage.
 
-- I'm completed my university internship in ASAL Technology
-- My internship was about Frontend developer.
-- My email is naeemabueideh99@gmail.com
+- 🔭 I have completed my Frontend internship at ASAL Technologys
+- 🌱 My internship was about Frontend developer.
+- 📫 How to reach me:  naeemabueideh99@gmail.com
 
 
 ## Connect with me:
