@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Abueideh</h1>
-<h3 align="center">I'm Naeem Abueideh, a Computer Science graduate from An-Najah National University in Palestine with hands-on experience in software development. where I contribute to building scalable web applications and backend solutions. Previously worked at ASAL Technologies as a Frontend Developer. Skilled in PHP, HTML, CSS, JavaScript, React, and backend development. Passionate about creating efficient, secure, and high- performance applications.</h3>
+<h3>I'm Naeem Abueideh, a Computer Science graduate from An-Najah National University in Palestine with hands-on experience in software development. where I contribute to building scalable web applications and backend solutions. Previously worked at ASAL Technologies as a Frontend Developer. Skilled in PHP, HTML, CSS, JavaScript, React, and backend development. Passionate about creating efficient, secure, and high- performance applications.</h3>
 
 - 🔭 I’m had worked on [Hotel Booking](https://github.com/NaeemAbu-Eideh/hotel-booking)
 
