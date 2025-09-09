@@ -25,4 +25,4 @@
 <br><br>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight)-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight">
