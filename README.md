@@ -3,7 +3,7 @@
 
 - 🔭 I’m had worked on [Hotel Booking](https://github.com/NaeemAbu-Eideh/hotel-booking)
 
-- 🌱 I’m currently learning **Full Stack Development Bootcamp**
+- 🌱 I’m currently learning **Full Stack Development Bootcamp in Axsos Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaeemAbu-Eideh?tab=repositories](https://github.com/NaeemAbu-Eideh?tab=repositories)
 
