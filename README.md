@@ -24,4 +24,4 @@
 
 <br><br>
 
-<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight)</center>center>
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight)</center>
