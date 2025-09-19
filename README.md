@@ -25,5 +25,11 @@
 <br><br>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight)-->
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&layout=compact&theme=tokyonight)
+
+
+
 <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbu-Eideh&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?usernameNaeemAbu-Eideh&langs_count=10&theme=radical
 http://ionicabizau.github.io/github-profile-languages/?user=NaeemAbu-Eideh)">
