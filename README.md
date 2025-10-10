@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaeemAbu-Eideh?tab=repositories](https://github.com/NaeemAbu-Eideh?tab=repositories)
 
-- 💬 Ask me about **Python, C++,Java, HTML, CSS, JavaScript, React, Flutter,, Flask, and Django**
+- 💬 Ask me about **Django, Flask, Python, C++,Java, HTML, CSS, JavaScript, React, and Flutter**
 
 - 📫 How to reach me **naeemabueideh99@gmail.com**
 
