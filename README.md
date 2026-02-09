@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naeem Abueideh</h1>
-<h3 align="center">A Full Stack Developer graduate from An-Najah National University in Palestine. I finished Full Stack Development Bootcamp at Axsos Academy, Previously interned at ASAL Technologies as a Frontend Developer, I have some softs skills like Teamwork, and Self learning, worked in some website projects like: PalGuide, and L3eeb, and I have good experience in mobile app development.</h3>
-
-- 🔭 I’m had worked on [CareClinic](https://github.com/NaeemAbu-Eideh/CareClinic)
+<h3>A Full Stack Developer graduate from An-Najah National University in Palestine. I finished Full Stack Development Bootcamp at Axsos Academy, Previously interned at ASAL Technologies as a Frontend Developer, I have some softs skills like Teamwork, and Self learning, worked in some website projects like: PalGuide, and L3eeb, and I have good experience in mobile app development.</h3>
 
 - 🌱 I’m Finished learning **Full Stack Development Bootcamp**
+
+- 🔭 I’m had worked on [CareClinic](https://github.com/NaeemAbu-Eideh/CareClinic)
 
 - I'm also worked on [PalGuide](https://github.com/NaeemAbu-Eideh/PalGuide)
 
